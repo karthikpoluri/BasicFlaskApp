@@ -9,6 +9,6 @@ def Index():
 
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
 
 "python version = 3.12.8"
