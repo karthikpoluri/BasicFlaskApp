@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Optional, Dict, List, Any, Tuple
 from langchain_google_genai import ChatGoogleGenerativeAI
 from visualize.generate_diagrams import generate_architecture_diagrams
+from load_dotenv import dotenv
 
 # ===============================
 # CONFIG
